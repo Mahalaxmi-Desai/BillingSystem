@@ -28,7 +28,6 @@ A simple console-based billing system written in Java for small shops. This appl
 - No database (in-memory data only)
 
 ---
-
 ## 🧱 Project Structure
 
 BillingSystem/<br>
