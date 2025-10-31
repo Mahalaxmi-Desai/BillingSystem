@@ -47,7 +47,11 @@ cd java-billing-system
 2. Compile the Java file:<br>
 javac BillingSystem.java
 
-3. Run the program:<br>
+
+
+
+
+4. Run the program:<br>
 java BillingSystem
 
 
